@@ -42,7 +42,7 @@ This repository contains Jupyter notebooks and python scripts that explore funda
 8. [**Linear Regression using Moore-Penrose Pseudo Inverse with K-Fold Cross-Validation**](./blob/main/notebooks/linear_regression_nb.ipynb)
    A linear regression model built using the pseudo inverse, evaluated with K-Fold cross-validation.
 
-9. [**Core Google PageRank Algorithm**](./notebooks/page_rank_nb.ipynb)
+9. [**Google's PageRank Algorithm**](./notebooks/page_rank_nb.ipynb)
    Implementation of the PageRank algorithm, a fundamental algorithm used by Google for ranking web pages.
 
 ## Getting Started
